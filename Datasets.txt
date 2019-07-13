@@ -1,0 +1,5 @@
+You can download the dataset from http://btsd.ethz.ch/shareddata/. 
+
+Download these two datasets from that page since there are lots of datasets available there:
+BelgiumTSC_Training (171.3MBytes)
+BelgiumTSC_Testing (76.5MBytes)
